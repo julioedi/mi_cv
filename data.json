@@ -1,0 +1,149 @@
+{
+    "name": "Julio Eduardo García Molina",
+    "title": [
+        "Diseñador UI/UX  || Full Stack Designer",
+        "UI/UX Designer || Full Stack Designer"
+    ],
+    "description": [
+        "Cuento con experiencia en la creación de wireframes, sitemaps, interfaces visuales y prototipos interactivos que equilibran estética y funcionalidad. Me especializo en diseñar soluciones digitales centradas en el usuario, alineadas con objetivos estratégicos y orientadas a optimizar la experiencia final. Como profesional autodidacta, he desarrollado habilidades técnicas en frontend (HTML, CSS, JavaScript, React) y en herramientas como Figma, WordPress y Adobe XD, lo que me permite colaborar eficazmente en entornos ágiles y aportar a productos digitales escalables e innovadores",
+        "I have experience creating wireframes, sitemaps, visual interfaces, and interactive prototypes that balance aesthetics and functionality. I specialize in designing user-centered digital solutions aligned with strategic goals and aimed at optimizing the end-user experience. As a self-taught professional, I have developed technical skills in frontend (HTML, CSS, JavaScript, React) and tools like Figma, WordPress, and Adobe XD, allowing me to collaborate effectively in agile environments and contribute to scalable, innovative digital products."
+    ],
+    "skills": [
+        {
+            "title": [
+                "Diseño",
+                "Design"
+            ],
+            "data": [
+                {
+                    "icon": "ui",
+                    "title": "UI Design",
+                    "year": 2015
+                },
+                {
+                    "icon": "ux",
+                    "title": "UX Design",
+                    "year": 2017
+                },
+                {
+                    "icon": "wcag",
+                    "title": "WCAG",
+                    "year": 2017
+                },
+                {
+                    "icon": "prototype",
+                    "title": "Prototyping",
+                    "year": 2017
+                }
+            ]
+        },
+        {
+            "title": [
+                "Código",
+                "Coding"
+            ],
+            "data": [
+                {
+                    "icon": "js",
+                    "title": "HTML/CSS/JS",
+                    "year": 2021
+                },
+                {
+                    "icon": "wp",
+                    "title": "WordPress",
+                    "year": 2021
+                },
+                {
+                    "icon": "elementor",
+                    "title": "Elementor Addons Dev",
+                    "year": 2022
+                },
+                {
+                    "icon": "react",
+                    "title": "React",
+                    "year": 2022
+                }
+            ]
+        }
+    ],
+    "tools":[
+        "figma",
+        "xd",
+        "ps",
+        "vscode",
+        "github",
+        "clickup"
+    ],
+    "experience":[
+        {
+            "title":"Freelance",
+            "company":null,
+            "icon":"freelance",
+            "dates":[
+                "may 2013",
+                "nov 2019"
+            ],
+            "description":[
+                "Diseñé interfaces de usuario y experiencias digitales para sitios web y aplicaciones, colaborando con clientes de distintos sectores y regiones. Realicé wireframes, prototipos interactivos y entregables visuales usando herramientas como Figma y Adobe XD. Esta etapa fortaleció mi capacidad de adaptar soluciones a diferentes audiencias, aplicar principios de diseño centrado en el usuario, y gestionar proyectos de forma autónoma desde la conceptualización hasta la entrega final.",
+                "Designed user interfaces and digital experiences for websites and apps across various sectors. Delivered wireframes, interactive prototypes, and visual assets using Figma and Adobe XD. This period strengthened my autonomy, adaptability, and focus on user-centered design."
+            ]
+        },
+        {   
+            "title":[
+                "Diseñador  UI/UX",
+                "Bortom UI/UX designer"
+            ],
+            "company":"Bortom",
+            "icon":"company",
+            "dates":[
+                "nov 2019",
+                "feb 2024"
+            ],
+            "description":[
+                "Diseñé interfaces centradas en el usuario para sitios web en WordPress, colaborando estrechamente con desarrolladores para asegurar la viabilidad técnica y una experiencia óptima. Me enfoqué en diseño responsive y la creación de wireframes, mockups y prototipos interactivos usando Figma y Adobe XD. Adquirí experiencia práctica en desarrollo frontend y backend, personalizando temas y creando addons compatibles con constructores como Elementor y WPBakery mediante PHP, siguiendo sus respectivas documentaciones. Implementé soluciones accesibles y funcionales que respondieron a los objetivos del negocio y a las necesidades de los usuarios finales.",
+                "I designed user-centered interfaces for WordPress websites, working closely with developers to ensure technical feasibility and deliver an optimal user experience. My work focused on responsive design, creating wireframes, mockups, and interactive prototypes using Figma and Adobe XD. I gained hands-on experience in both frontend and backend development, customizing themes and building addons compatible with page builders like Elementor and WPBakery using PHP, following their official documentation. I implemented accessible, functional solutions aligned with business goals and user needs."
+            ]
+        },
+        {
+            "title":[
+                "Diseñador  UI/UX",
+                "Bortom UI/UX designer"
+            ],
+            "company":"Vinco Orbis",
+            "icon":"company",
+            "dates":[
+                "apr 2024",
+                "feb 2025"
+            ],
+            "description":[
+                "Diseñé interfaces intuitivas y adaptables aplicando principios de diseño centrado en el usuario, en un entorno ágil basado en metodologías Scrum y Kanban. Participé en sesiones de planificación y refinamiento, estimando tiempos de diseño y entregables con precisión. Documenté flujos, decisiones y entregas utilizando herramientas como ClickUp y Manoderecha, lo que facilitó la colaboración con equipos multidisciplinarios. Estas mejoras en la organización y comunicación ayudaron a optimizar procesos internos y cumplir con plazos de entrega de forma consistente.",
+                "I designed intuitive, responsive interfaces by applying user-centered design principles in an agile environment using Scrum and Kanban methodologies. I took part in planning and refinement sessions, accurately estimating design timelines and deliverables. I documented workflows, design decisions, and handoffs using tools like ClickUp and Manoderecha, which supported collaboration with cross-functional teams. These improvements in organization and communication helped streamline internal processes and consistently meet delivery deadlines."
+            ]
+        }
+    ],
+    "links":[
+        {
+            "type":"email",
+            "url":"mailto:julio.edi@gmail.com",
+            "custom": "julio.edi@gmail.com"
+        },
+        {
+            "type":"github",
+            "url":"https://github.com/julioedi",
+            "custom": "github.com/julioedi"
+        },
+        {
+            "type":"briefcase",
+            "url":"https://be.net/julioedi",
+            "custom": "be.net/julioedi"
+        },
+        {
+            "type":"linkedin",
+            "custom": "@julioedi",
+            "url":[
+                "https://www.linkedin.com/in/julioedi/?locale=es_MX",
+                "https://www.linkedin.com/in/julioedi/?locale=en_US"
+            ]
+        }
+    ]
+}

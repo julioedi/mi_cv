@@ -1,0 +1,244 @@
+body {
+    margin: 0.25in;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 0.16rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h2 {
+    margin: 3.75rem 0 1rem;
+}
+
+h1+h2 {
+    margin-top: 0.16rem;
+}
+
+h2+p {
+    margin-top: 0.16rem;
+}
+
+.half {
+    display: inline-block;
+    width: 50%;
+}
+
+.skill_head {
+    margin-top: 0;
+    font-size: 0.75rem;
+    opacity: 0.5;
+    order: 1;
+}
+
+.half.second {
+    padding-left: 3rem;
+}
+
+svg:not(.title) {
+    width: 1.5rem;
+    height: 1.5rem;
+    vertical-align: middle;
+}
+
+ul {
+    list-style: none;
+    padding: 1rem 0;
+    margin: 0;
+}
+
+.skillsList {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    font-weight: 500;
+    padding: 0;
+}
+
+.skillsList h3 {
+    font-size: 1rem;
+    color: #808080;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.skillsList>:nth-child(2) {
+    padding-left: 3rem;
+}
+
+.icon_skill {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    break-after: always;
+}
+
+.icon_skill .years {
+    font-weight: normal;
+}
+
+.hidden_text {
+    font-size: 1px;
+    line-height: 1px;
+    color: #fff;
+    margin-left: -4px;
+}
+
+.border {
+    flex: 1;
+    color: transparent;
+    border-top: 1px dashed #000;
+    margin-bottom: -1.5rem;
+    opacity: 0.25;
+}
+
+.toolslist {
+    display: flex;
+    flex-wrap: wrap;
+    line-break: anywhere;
+    gap: 1rem;
+}
+
+.toolslist li {
+    display: inline-block;
+    break-inside: auto;
+    line-break: strict;
+}
+
+.toolslist li::after {
+    content: ",";
+    width: 1px;
+    color: #fff;
+}
+
+.toolslist li:last-child::after {
+    content: none;
+}
+
+.skills_title {
+    margin-bottom: 0;
+}
+
+.skills_title::after,
+.tools_title::after,
+.experience_title::after {
+    content: ": ";
+    color: #fff
+}
+
+.experiencelist li {
+    display: grid;
+    grid-template-areas:
+        "icon title"
+        "empty description"
+        "separator separator"
+    ;
+    column-gap: 1rem;
+    grid-template-columns: 24px 1fr;
+}
+
+.experiencelist li h3 {
+    grid-area: title;
+    display: inline-block;
+    margin: 0;
+    margin-top: 0.125rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1rem;
+}
+.experiencelist li h3 .years{
+    font-size: 0.75rem;
+}
+
+.experiencelist li svg {
+    grid-area: icon;
+}
+
+.experiencelist li p {
+    grid-area: description;
+}
+
+.experiencelist li p {
+    margin: 0.5rem 0 1.5rem;
+}
+
+
+.skillsList b,
+.experiencelist h3 b {
+    margin-left: -1rem;
+    color: #fff;
+}
+.experiencelist p{
+    font-size: 0.75rem;
+}
+
+.separator {
+    grid-area: separator;
+    font-size: 0.05em;
+    margin-top: -1rem;
+    color: #fff;
+}
+
+.qrcodes {
+    display: flex;
+    gap: 3rem;
+    page-break-after: auto;
+}
+
+.qrcodes li  a{
+    display: grid;
+    grid-template-columns: 1.5rem 1fr;
+    column-gap:1rem;
+    align-items: center;
+    position: relative;
+    grid-template-areas:
+        "icon title"
+        "svg svg"
+    ;
+}
+.qrcodes li img{
+    height: 1rem;
+    width: auto;
+}
+
+.qrcodes .svg {
+
+    grid-area: svg;
+}
+
+.qrcodes .svg svg {
+    width: 12.5rem;
+    height: 12.5rem;
+}
+
+.qrcodes .link{
+ font-size: 0.1em;
+ margin-top: -1rem;
+ color:#fff;
+}
+
+@media print {
+    :root {
+        font-size: 11px;
+    }
+
+    @page {
+        margin: 0;
+        padding: 0.25in;
+        padding-bottom: 0;
+    }
+
+    body {
+        min-height: 10in;
+        overflow: visible;
+    }
+    
+}
