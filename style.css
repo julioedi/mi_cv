@@ -15,7 +15,7 @@ h1 {
 }
 
 h2 {
-    margin: 3.75rem 0 1rem;
+    margin: 2.875rem 0 1rem;
 }
 
 h1+h2 {
@@ -186,11 +186,15 @@ ul {
     margin-top: -1rem;
     color: #fff;
 }
+[lang="en_MX"] .links_title{
+    margin-top: 1rem;
+}
 
 .qrcodes {
     display: flex;
-    gap: 3rem;
+    gap: 2rem;
     page-break-after: auto;
+    padding: 0;
 }
 
 .qrcodes li  a{
@@ -215,8 +219,9 @@ ul {
 }
 
 .qrcodes .svg svg {
-    width: 12.5rem;
-    height: 12.5rem;
+    font-size: 1.75in;
+    width: 1em;
+    height: 1em;
 }
 
 .qrcodes .link{

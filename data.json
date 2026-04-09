@@ -1,8 +1,8 @@
 {
     "name": "Julio Eduardo García Molina",
     "title": [
-        "Diseñador UI/UX  || Full Stack Designer",
-        "UI/UX Designer || Full Stack Designer"
+        "Diseñador UI/UX  || UI/UX Engineer",
+        "UI/UX Designer || UI/UX Engineer"
     ],
     "description": [
         "Cuento con experiencia en la creación de wireframes, sitemaps, interfaces visuales y prototipos interactivos que equilibran estética y funcionalidad. Me especializo en diseñar soluciones digitales centradas en el usuario, alineadas con objetivos estratégicos y orientadas a optimizar la experiencia final. Como profesional autodidacta, he desarrollado habilidades técnicas en frontend (HTML, CSS, JavaScript, React) y en herramientas como Figma, WordPress y Adobe XD, lo que me permite colaborar eficazmente en entornos ágiles y aportar a productos digitales escalables e innovadores",
@@ -107,7 +107,7 @@
         {
             "title":[
                 "Diseñador  UI/UX",
-                "Bortom UI/UX designer"
+                "UI/UX designer"
             ],
             "company":"Vinco Orbis",
             "icon":"company",
@@ -117,7 +117,20 @@
             ],
             "description":[
                 "Diseñé interfaces intuitivas y adaptables aplicando principios de diseño centrado en el usuario, en un entorno ágil basado en metodologías Scrum y Kanban. Participé en sesiones de planificación y refinamiento, estimando tiempos de diseño y entregables con precisión. Documenté flujos, decisiones y entregas utilizando herramientas como ClickUp y Manoderecha, lo que facilitó la colaboración con equipos multidisciplinarios. Estas mejoras en la organización y comunicación ayudaron a optimizar procesos internos y cumplir con plazos de entrega de forma consistente.",
-                "I designed intuitive, responsive interfaces by applying user-centered design principles in an agile environment using Scrum and Kanban methodologies. I took part in planning and refinement sessions, accurately estimating design timelines and deliverables. I documented workflows, design decisions, and handoffs using tools like ClickUp and Manoderecha, which supported collaboration with cross-functional teams. These improvements in organization and communication helped streamline internal processes and consistently meet delivery deadlines."
+                "I Design and build user-centered interfaces using PHP, JavaScript, and React, bridging UX design and front-end development. Collaborate with product and engineering teams in agile environments to translate requirements into intuitive, accessible, and scalable user experiences. Contribute to user flow definition, interface design, and the development of reusable UI components and design patterns."
+            ]
+        },
+        {
+            "title":"UI/UX Engineer",
+            "company":"Infotec",
+            "icon":"company",
+            "dates":[
+                "aug 2025",
+                null
+            ],
+            "description":[
+                "Diseño e implemento interfaces centradas en el usuario utilizando PHP, JavaScript y React. Colaboro con equipos de producto y desarrollo en entornos ágiles para transformar requerimientos en experiencias funcionales, accesibles y escalables. Participo en la definición de flujos de usuario, diseño de interfaces y desarrollo de componentes reutilizables.",
+                "Diseño e implemento interfaces centradas en el usuario utilizando PHP, JavaScript y React. Colaboro con equipos de producto y desarrollo en entornos ágiles para transformar requerimientos en experiencias funcionales, accesibles y escalables. Participo en la definición de flujos de usuario, diseño de interfaces y desarrollo de componentes reutilizables."
             ]
         }
     ],

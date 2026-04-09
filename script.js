@@ -114,6 +114,9 @@ async function textToSvgBase64(text) {
     const icons = {};
 
     const createDate = (stringdate) => {
+        if (!stringdate) {
+            return lang == 0 ? 'Actualidad' : 'Currently';
+        }
         const date = new Date(stringdate);
         const locale = lang == 0 ? 'es-ES' : 'en-US';
         const format = new Intl.DateTimeFormat(locale, { month: 'short' });
